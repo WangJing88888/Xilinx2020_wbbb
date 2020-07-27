@@ -1,5 +1,5 @@
 # Xilinx2020_wbbb
-2020年新工科联盟-Xilinx暑期学校（Summer School）项目13：摇摇乐
+2020年新工科联盟-Xilinx暑期学校（Summer School）项目6：数字识别
 小组成员：
 刘龙吉 2018112736 （组长）
 王静 2018112729
